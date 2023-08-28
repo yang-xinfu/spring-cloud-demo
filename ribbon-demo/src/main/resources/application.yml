@@ -1,3 +1,6 @@
-baidu:
+
+damai:
   ribbon:
-    listOfServers: 110.242.68.4,110.242.68.3
+    listOfServers: 127.0.0.1:8080,127.0.0.1:8081
+server:
+  port: 8080
